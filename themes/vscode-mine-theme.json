@@ -1,5 +1,5 @@
 {
-	"name": "s-kill",
+	"name": "Mine",
 	"type": "dark",
 	"colors": {
 		"dropdown.border": "#00000000",
@@ -13,14 +13,14 @@
 		"inputOption.activeBorder": "#00000000",
 		"focusBorder": "#00000000",
 
-		"editor.background": "#293340",
-		"statusBar.background": "#293340",
-		"tab.inactiveBackground": "#293340",
-		"tab.activeBackground": "#293340",
-		"sideBar.background": "#293340",
-		"activityBar.background": "#293340",
-		"editorGroupHeader.tabsBackground": "#293340",
-		"editorCursor.background": "#293340",
+		"editor.background": "#1f1f1f",
+		"statusBar.background": "#1f1f1f",
+		"tab.inactiveBackground": "#1f1f1f",
+		"tab.activeBackground": "#1f1f1f",
+		"sideBar.background": "#1f1f1f",
+		"activityBar.background": "#1f1f1f",
+		"editorGroupHeader.tabsBackground": "#1f1f1f",
+		"editorCursor.background": "#1f1f1f",
 
 		"editorWidget.background": "#1f232e",
 		"editorWidget.border": "#1f232e",
@@ -62,8 +62,8 @@
 		"progressBar.background": "#fad185",
 		"extensionButton.prominentBackground": "#fad185",
 
-		"badge.foreground": "#293340",
-		"activityBarBadge.foreground": "#293340",
+		"badge.foreground": "#1f1f1f",
+		"activityBarBadge.foreground": "#1f1f1f",
 
 		"editorSuggestWidget.foreground": "#eee",
 		"tab.activeForeground": "#eee",
@@ -100,7 +100,7 @@
 		"editorGutter.addedBackground": "#63d492",
 		"editorGutter.deletedBackground": "#eb5151",
 
-		"terminal.foreground": "#CDD2E9",
+		"terminal.foreground": "#d2d2d2",
 		"terminal.ansiBlack": "#1d212b",
 		"terminal.ansiBlue": "#4CB2FF",
 		"terminal.ansiBrightBlack": "#546386",
@@ -115,11 +115,11 @@
 		"terminal.ansiGreen": "#61BA86",
 		"terminal.ansiMagenta": "#d5a1f8",
 		"terminal.ansiRed": "#fe8183",
-		"terminal.ansiWhite": "#CDD2E9",
+		"terminal.ansiWhite": "#d2d2d2",
 		"terminal.ansiYellow": "#FFEC8E",
 		"terminal.selectionBackground": "#00eeff99",
 		"terminalCursor.background": "#1d212b",
-		"terminalCursor.foreground": "#CDD2E9"
+		"terminalCursor.foreground": "#d2d2d2"
 	},
 	"tokenColors": [
 		{
